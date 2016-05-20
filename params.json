@@ -1,6 +1,6 @@
 {
-  "name": "Cv",
-  "tagline": "This is a CV!",
-  "body": "### This is a CV!",
+  "name": "cv",
+  "tagline": "This is a cv!",
+  "body": "### This is a cv!",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
